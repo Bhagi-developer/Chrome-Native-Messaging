@@ -1,0 +1,7 @@
+{
+  "name": "com.bhagi.notepad",
+  "description": "Open notepad",
+  "path": "nt.bat",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://incjicjlbhccgbgmgjdenpeoladhfcnp/"]
+}

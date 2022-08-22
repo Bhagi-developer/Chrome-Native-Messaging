@@ -1,0 +1,7 @@
+{
+  "name": "com.bhagi.git",
+  "description": "Open git-bash",
+  "path": "git.bat",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://incjicjlbhccgbgmgjdenpeoladhfcnp/"]
+}
